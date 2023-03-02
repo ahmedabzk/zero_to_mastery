@@ -196,6 +196,6 @@ fn run_main_menu() -> Option<String> {
     None
 }
 
-fn main(){
+fn main() {
     run_main_menu();
 }
